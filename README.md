@@ -2,17 +2,17 @@
 
 *COMPANY*:CODTECH IT SOLUTIONS
 
-*NAME*:NARAYANA DEEEPTHI
+*NAME*:NARAYANA DEEPTHI
 
 *INTERN ID*:COD123
 
-*DOMAIN NAME*:FULL STRACK DEVELOPER
+*DOMAIN NAME*:FULL STACK DEVELOPER
 
 *MENTOR*:NEELA SANTHOSH
 
 #DESCRIPTION
 
-I developed a Weather API Integration Webpage, a responsive webpage that utilizes HTML5, CSS3, and JavaScript (ES6+) in VS Code to integrate the OpenWeatherMap API. This webpage dynamically loads and displays real-time weather data for HYDERABAD, showcasing temperature, humidity, and weather descriptions, all while maintaining a responsive design for an optimal user experience.
+I developed a Weather API Integration Webpage, a responsive webpage that utilizes HTML5, CSS3, and Javascript in Visual Studio Code to integrate the OpenWeatherMap API. This webpage dynamically loads and displays real-time weather data for HYDERABAD, showcasing temperature, humidity, and weather descriptions, all while maintaining a responsive design for an optimal user experience.
 
 The webpage's core functionality relies on the seamless integration of the OpenWeatherMap API, which provides accurate and up-to-date weather data. By leveraging the API's capabilities, the webpage can fetch and display real-time weather information, ensuring that users receive the most current and reliable data available.
 
