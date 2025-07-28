@@ -23,8 +23,3 @@ In addition to displaying real-time weather data, the webpage also showcases tem
 The webpage's responsive design ensures that it can be accessed and used on a variety of devices, including desktop computers, laptops, tablets, and smartphones. This responsiveness is achieved through the use of CSS media queries, which allow the webpage's layout and design to adapt to different screen sizes and devices.
 
 Overall, the Weather API Integration Webpage is a powerful tool for anyone looking to stay up-to-date with the latest weather conditions in Hyderabad. Its seamless integration with the OpenWeatherMap API, dynamic loading of real-time weather data, and responsive design make it an invaluable resource for users. Whether you're a developer looking to integrate weather data into your own applications or simply someone looking to stay informed about the weather, this webpage is an excellent choice.
-
-#output
-
-![Image](https://github.com/user-attachments/assets/5a862809-cb34-4832-8b8f-e40ead6d4b12)
-
